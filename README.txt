@@ -1,5 +1,5 @@
-Student name: Sebastian Amariei	
-Student number: 200246695
+Sebastian Amariei	
+
 
 Now complete the statements below for each level you wish to be marked. Replace all text in square brackets.
 
