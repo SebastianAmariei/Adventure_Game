@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Creature
+comment1.params=Hp\ Name\ Damage\ BlockChance\ CriticalChance
+comment1.target=Creature(int,\ java.lang.String,\ int,\ int,\ int)
+comment10.params=
+comment10.target=java.lang.String\ getName()
+comment11.params=newDamage
+comment11.target=void\ setDamage(int)
+comment12.params=
+comment12.target=int\ getDamage()
+comment2.params=
+comment2.target=int\ GoldDrop()
+comment3.params=
+comment3.target=int\ BlockChance()
+comment4.params=
+comment4.target=int\ CriticalHit()
+comment5.params=
+comment5.target=boolean\ DoubleShot()
+comment6.params=
+comment6.target=int\ ElementAttack()
+comment7.params=newHp
+comment7.target=void\ setHp(int)
+comment8.params=
+comment8.target=int\ getHp()
+comment9.params=newName
+comment9.target=void\ setName(java.lang.String)
+numComments=13

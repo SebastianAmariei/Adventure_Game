@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=message
+comment10.target=java.lang.String\ inputString(java.lang.String)
+comment11.params=message
+comment11.target=int\ inputInt(java.lang.String)
+comment2.params=
+comment2.target=void\ FightBat()
+comment3.params=
+comment3.target=void\ FightArcher()
+comment4.params=
+comment4.target=void\ FightMage()
+comment5.params=
+comment5.target=void\ PrintStatsPlayer()
+comment6.params=
+comment6.target=void\ PrintStatsBat()
+comment7.params=
+comment7.target=void\ PrintStatsArcher()
+comment8.params=
+comment8.target=void\ PrintStatsMage()
+comment9.params=message
+comment9.target=void\ print(java.lang.String)
+numComments=12

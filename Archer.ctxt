@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Archer
+comment1.params=
+comment1.target=Archer()
+comment2.params=
+comment2.target=int\ GoldDrop()
+comment3.params=
+comment3.target=int\ BlockChance()
+comment4.params=
+comment4.target=boolean\ DoubleShot()
+comment5.params=
+comment5.target=int\ CriticalHit()
+comment6.params=
+comment6.target=java.lang.String\ getSpecialAttack()
+comment7.params=
+comment7.target=int\ getGoldDropped()
+numComments=8
